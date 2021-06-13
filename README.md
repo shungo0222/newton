@@ -1,0 +1,1 @@
+# Solve non-linear equations with the newton's method
